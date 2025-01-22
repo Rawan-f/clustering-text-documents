@@ -1,4 +1,3 @@
-```markdown
 # Clustering Text Documents
 
 This repository contains a Jupyter Notebook demonstrating various techniques for clustering text documents. The notebook covers an end-to-end pipeline for text mining and clustering.
